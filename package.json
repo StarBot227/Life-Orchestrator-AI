@@ -1,0 +1,12 @@
+{
+  "name": "life-orchestrator",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "next": "14.x",
+    "react": "18.x",
+    "zustand": "^4.x",
+    "date-fns": "^2.x",
+    "mongodb": "^6.x"
+  }
+}
